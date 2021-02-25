@@ -6,8 +6,6 @@
 
 .dice {
   text-align: center;
-  display: inline-block;
-
 }
 
 body {
@@ -28,8 +26,7 @@ p {
 }
 
 img {
-  margin: 0 100px;
-  width: 250px;
+  width: 50%;
 }
 
 footer {
@@ -44,5 +41,6 @@ footer {
 .btn {
   display: block;
   margin: 5% auto;
-  width: 10%;
+  width: 150px;
+  text-align: center;
 }
